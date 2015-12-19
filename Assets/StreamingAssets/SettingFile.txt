@@ -1,0 +1,55 @@
+﻿編號	標題	原文	翻譯	備注
+1	TRAVELER	The player who has visited the most countries is the Start Player	去過最多國家	
+3	LISTENER	The player who has the biggest ears is the Start Player	耳多最	
+5	MOST SIBLINGS	The player who has the most siblings is the Start Player	最多兄弟姐妹	
+6	SHORTEST	The player who is the shortest is the Start Player	最矮	
+7	OLDEST	The player who is the oldest is the Start Player	最老	
+8	BOOMING VOICE	The player who has the loudest voice is the Start Player	最大聲	
+9	TALLEST	The player who is the tallest is the Start Player	最高	
+10	YOUNGEST	The player who is the youngest is the Start Player	最年輕	
+13	BIRTHDAY	The player whose birthday is next is the Start Player	生日最接近	
+17	STEADY	The player who has the biggest feet is the Start Player	腳最大	
+19	EYEBROWS	The player who has the biggest bushiest eyebrows is the Start Player	最大最濃的眉毛	
+22	DOTTY	The player who has the most freckles is the Start Player	最多青春豆或雀班	
+26	FORM STRETCHER	The player who has the most letters in their first and last names is the Start Player	姓名字數或筆畫最多	
+100	3 HOLE MONTY	The player who has most recently bowled is the Start Player	最近打保齡球	
+101	CHOCOBEAN	The player who has most recently drank chocolate milk is the Start Player	最近喝過巧克力牛奶	
+105	OWNER	The player who owns the game about to be played is the Start Player	最近玩過這個遊戲	曾經獨自玩過起始玩家者
+106	PURRFECTION	The player who has the most cats is the Start Player	有最多貓者	
+108	MOST GAMES	The player who owns the boardgames is the Start Player	曾經獨自玩過這個桌遊者	
+110	MINICAR	The player who drives the smallest car is the Start Player	駕駛最小交通公具者	
+111	CURLY	The player who has the curliest hair is the Start Player	頭髮最卷	
+114	LONG HAIR	The player who has the longest hair is the Start Player	頭長髮最長	
+116	BIT SAVER	The player who has the shortest email address is the Start Player	Email最長	
+120	CAKED ON	The player who is wearing the most makeup is the Start Player	最多最濃妝者	
+200	LEFTY	The player to the left of the card flipper is the Start Player	在抽此張卡者左邊的人	
+201	RIGHTY	The player to the right of the card flipper is the Start Player	在抽此張卡者右邊的人	
+202	TRAVELING LIGHT	The player wearing the fewest articles of clothing is the Start Player	服裝穿最少者	
+205	WHITEY	The player who is wearing the most white is the Start Player	穿著最接近白色者	
+207	STENCH FREE	The player who took a bath or shower the most recently is the Start Player	最近洗過澡者	最乾淨(泡浴缸或淋浴)
+209	BUTTONED	The player who has the most buttons is the Start Player	最多鈕扣者	
+211	UNBUTTONED	The player who has the most unbuttoned buttons is the Start Player	最多沒扣上鈕扣者	
+305	NATIVE	The player who was born the closest geographically	出生地距離最近者	
+308	ONLY CHILD	The player who has fewest number of siblings is the Start Player	兄弟姐妹最少者	
+371	QUENCH	The next player to drink something is the Start Player	馬上喝水或飲料的人	
+372	CHARITY	The next player to give money to someone is the Start Player	請客者或將要給別人錢者	
+373	ORAL FIXATION	The next player to put something in their mouth is the Start Player	將要吃東西者	將東西放在舌頭上者
+374	YODELEA	The next palyer to yodel is the Start Player	馬上唱歌或哼曲子者	
+407	KING SAVER	The player who has most recently played chess is the Start Player 	最近下過棋者	
+414	MOST DICE	The player who owns the most dice is the Start Player	贏過最多次骰子者	
+421	CURLED UP	The player who has most recently finished reading a novel is the Start Player	最近讀過小說者	
+500	POCKETS	The player who has most pockets is the Start Player	最多口袋者	
+504	BIG BELT	The player who has the longest belt is the Start Player	最長腰帶者	
+505	KEYED IN	The player who has the most keys is the Start Player	最多鑰匙者	
+600	SANTA'S HELPER	The player who has been closest to the North Pole is the Start Player	最靠近北極者	
+601	SCURVVEY DOG	The palyer who has spent the most nights at sea on a boat is the Start Player	在海上的船呆過最多夜晚者	
+602	CRITICAL CONDITION	The palyer who has had the longest hospital stay is the Start Player	呆過醫院最久者	
+603	DRAWN HERA	The player who looks the most like an animated character is the Start Player	最像卡通角色者	
+671	INHUMAN	The player who makes the loudest non-vocal noise is the Start Player	聲音最響亮並不是噪音者	
+672	FLAMINGO	The player who hops one foot the longest is the Start Player	單腳跳最久者	
+673	PATIENCE	The player who keeps their eyes closed the longest is the Start Player	閉眼最久者	
+703	RELAXED	The player who has most recently done yoga is the Start Player	最近做過瑜珈者	
+704	COLD MILK	The player who has most recently eaten ice cream is the Start Player	最近吃過冰者	
+707	DEPRESSION	The player who has most recently talked to their mother is the Start Player	最近與母親交談者	
+713	FASHION FONER	The player who has  the coolest cell phone is the Start Player	擁有最好的手機者	
+801	ME	The player who turnde over this card is the Start Player	翻開這張卡者	
