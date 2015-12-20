@@ -1,6 +1,6 @@
-﻿編號	標題	原文	翻譯	備注
+編號	標題	原文	翻譯	備注
 1	TRAVELER	The player who has visited the most countries is the Start Player	去過最多國家	
-3	LISTENER	The player who has the biggest ears is the Start Player	耳多最	
+3	LISTENER	The player who has the biggest ears is the Start Player	耳多最大	
 5	MOST SIBLINGS	The player who has the most siblings is the Start Player	最多兄弟姐妹	
 6	SHORTEST	The player who is the shortest is the Start Player	最矮	
 7	OLDEST	The player who is the oldest is the Start Player	最老	
